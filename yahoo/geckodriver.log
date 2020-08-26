@@ -1,0 +1,101 @@
+1598317147574	geckodriver	INFO	Listening on 127.0.0.1:39211
+1598317147581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5acKKR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598317149428	Marionette	INFO	Listening on port 35099
+1598317149491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598317160033	Marionette	INFO	Stopped listening on port 35099
+1598317187908	geckodriver	INFO	Listening on 127.0.0.1:50455
+1598317187912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehL29XE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598317189732	Marionette	INFO	Listening on port 41351
+1598317189821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598317193866	Marionette	INFO	Stopped listening on port 41351
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1598317240710	geckodriver	INFO	Listening on 127.0.0.1:38679
+1598317240714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYprbTD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598317242511	Marionette	INFO	Listening on port 45121
+1598317242526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598317245956	Marionette	INFO	Stopped listening on port 45121
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://finance.yahoo.com/_service-worker.js for scope https://finance.yahoo.com/ encountered an error during installation.
+1598403785807	geckodriver	INFO	Listening on 127.0.0.1:46803
+1598403785811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFE7ZlR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598403787911	Marionette	INFO	Listening on port 46591
+1598403787919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/uc/finance/dd-site/js/vendor.54ce88c627df6f274fa0.min.js, line 2: HttpError: Attempting to prefetch a non-content url
+JavaScript error: https://s.yimg.com/uc/finance/dd-site/js/vendor.54ce88c627df6f274fa0.min.js, line 2: Error: XMLHttpRequest timeout
+1598403804345	Marionette	INFO	Stopped listening on port 46591
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1598404693535	geckodriver	INFO	Listening on 127.0.0.1:42007
+1598404693539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIhCkNV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598404695663	Marionette	INFO	Listening on port 34673
+1598404695757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/uc/finance/dd-site/js/vendor.54ce88c627df6f274fa0.min.js, line 2: HttpError: Attempting to prefetch a non-content url
+1598404710322	Marionette	INFO	Stopped listening on port 34673
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1598404769424	geckodriver	INFO	Listening on 127.0.0.1:58497
+1598404769428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei2cPGj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598404771324	Marionette	INFO	Listening on port 43627
+1598404771335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598404775904	Marionette	INFO	Stopped listening on port 43627
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1598404833358	geckodriver	INFO	Listening on 127.0.0.1:60333
+1598404833362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehmIkLM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598404835597	Marionette	INFO	Listening on port 43539
+1598404835672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598404839995	Marionette	INFO	Stopped listening on port 43539
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1598405535385	geckodriver	INFO	Listening on 127.0.0.1:46579
+1598405535389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQrQpBZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598405537338	Marionette	INFO	Listening on port 42405
+1598405537401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598405540550	Marionette	INFO	Stopped listening on port 42405
